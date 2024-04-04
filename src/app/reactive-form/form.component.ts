@@ -38,6 +38,7 @@ export class FormsComponent {
   }
 
   onsubmit(): void {
+    alert("Registro completado con éxito");
     console.log("registro completado" + JSON.stringify(this.formulario.value));
   }
 }

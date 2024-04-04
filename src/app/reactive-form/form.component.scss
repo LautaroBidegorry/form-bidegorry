@@ -1,0 +1,48 @@
+.custom-form {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .custom-label {
+    color: #28a745;
+    font-weight: bold;
+  }
+  
+  .custom-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 2px solid #28a745;
+    border-radius: 5px;
+  }
+  
+  .custom-input:focus {
+    outline: none;
+    border-color: #218838;
+    box-shadow: 0 0 5px #28a745;
+  }
+  
+  .custom-button {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .custom-button:hover {
+    background-color: #218838;
+  }
+  
+  .custom-checkbox-label {
+    color: #495057;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
